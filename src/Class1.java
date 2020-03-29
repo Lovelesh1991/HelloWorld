@@ -12,6 +12,8 @@ public class Class1 {
 
 		System.out.println("I Am First");
 	  //firstMethod();
+		
+		System.out.println("I Am Second");
 	}
 
 }
